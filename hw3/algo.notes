@@ -1,0 +1,11 @@
+- Sample pt at random
+- random ptcloud using randi(ptCloud.Count)
+- get location (ptCloud.Location)
+- figure out surface normal
+- randomly sample distance (radius)
+	- candidate center
+	- count inliers
+
+Cylinder
+- sample 2 points
+- est surface normal at both pts
